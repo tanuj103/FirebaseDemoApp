@@ -1,0 +1,6 @@
+framework module Pods_FirebaseIssuesDemoApp {
+  umbrella header "Pods-FirebaseIssuesDemoApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
